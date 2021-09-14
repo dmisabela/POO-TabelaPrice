@@ -1,0 +1,13 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+<footer class="text-center text-white fixed-bottom" style="background-color: #F8F8FF;">
+
+  <div class="container p-4"></div>
+  <div class="text-center p-3" style="background-color: #0d0d0d;">
+    Desenvolvido por: Isabela DM
+  </div>
+</footer>
